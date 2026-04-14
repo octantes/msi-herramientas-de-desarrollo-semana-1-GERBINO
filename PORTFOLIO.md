@@ -2,4 +2,4 @@
 
 ## Sobre Mi
 
-## Habilidades Tecnicas
+## Habilidades Tecnicas.
